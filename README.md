@@ -1,14 +1,18 @@
 # portfolio-simple-website
 
-# 🌟 My Portfolio Website 🌟  
+Here’s a professional README description for your GitHub repository:  
 
-🚀 **Welcome to my personal portfolio!** This is a simple yet elegant website designed using **HTML** and **CSS** to showcase my work and provide an easy way to connect with me.  
+---
 
-## 📌 What's Inside?  
-🔹 **Home Page** – A brief introduction about me and what I do.  
-🔹 **Contact Page** – A simple way to get in touch with me.  
+# 📌 Portfolio Website  
 
-## 🛠️ Built With  
-💻 **HTML** – For structuring the website.  
-🎨 **CSS** – For styling and enhancing the look.  
+Welcome to my portfolio website, built using **HTML** and **CSS**. This project serves as a simple yet effective platform to showcase my work and provide an easy way to connect with me.  
+
+## 🔹 Features  
+- **Home Page** – An introduction about me and my work.  
+- **Contact Page** – A section to get in touch with me.  
+
+## 🔹 Technologies Used  
+- **HTML** – Structuring the website content.  
+- **CSS** – Styling and layout design.  
 
